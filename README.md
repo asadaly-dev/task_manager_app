@@ -1,16 +1,21 @@
-# task_manager_app
+# Task Management App - Flutter Internship Project
 
-A new Flutter project.
+A modern, responsive Task Management application built with Flutter. This project demonstrates core mobile development concepts including UI design, form validation, navigation, and local data persistence.
 
-## Getting Started
+## 🚀 Features
+* **User Authentication**: Login screen with integrated email format validation and password checks.
+* **Task Management**: Full CRUD-like functionality to add, view, and delete tasks.
+* **Task Completion**: Interactive checkboxes to mark tasks as finished with visual feedback.
+* **Local Persistence**: Integrated with `SharedPreferences` to ensure user data is saved locally and persists after app restarts.
+* **Modern UI**: Developed using Material 3 standards, featuring custom cards and a clean, user-friendly interface.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+* **Framework**: Flutter
+* **Language**: Dart
+* **State Management**: setState
+* **Storage**: shared_preferences package
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/asadaly-dev/task_manager_app
